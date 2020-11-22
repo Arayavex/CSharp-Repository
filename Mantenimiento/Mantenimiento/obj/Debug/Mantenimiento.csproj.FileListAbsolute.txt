@@ -1,0 +1,13 @@
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.exe.config
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.exe
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.pdb
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csprojAssemblyReference.cache
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Properties.Resources.resources
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.GenerateResource.cache
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.CoreCompileInputs.cache
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.exe
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.pdb
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Forms_Paises.resources
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Form_Productos.resources
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Form_Geografia.resources
+C:\Users\MyUser\Source\Repos\Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Mantenimiento.resources
